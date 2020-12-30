@@ -20,10 +20,12 @@ feature:
   icon: python
   icon_pack: fas
   name: Python
+  
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
+  
 - description: 10%
   icon: camera-retro
   icon_pack: fas
