@@ -14,7 +14,7 @@ organizations:
   url: https://www.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include molecular dynamics, scientific deep learning, material design for fuel cell applications.
+bio: My research interests include molecular dynamics, scientific deep learning, material design adn development.
 
 # Interests to show in About widget
 interests:
