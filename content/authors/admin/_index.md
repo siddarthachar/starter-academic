@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: https://siddarthachar.netlify.app/media/resume.pdf
 
 #   TODO: Add these later
 
@@ -72,6 +72,7 @@ email: "ska31@pitt.edu"
 highlight_name: false
 ---
 
-Siddarth Achar is a Ph.D. student in Computational Modeling and Simulation at the University of Pittsburgh. His research projects include building deep learning forcefields for anhydrous proton transport materials which have applications in fuel cells, deep learning forcefields for UiO-66 (Metal-organic-framework) used for chemical warfare agents, and building a workflow for efficeintly predicting electron density of materials during classical molecular dynamics with machine leanring. 
+Siddarth Achar is a Ph.D. student in Computational Modeling and Simulation at the University of Pittsburgh. His research is focused on combining machine learning methods with quamtum mechanics to discover exciting properties of materials. 
+His research projects include building deep learning forcefields for anhydrous proton transport materials which have applications in fuel cells, deep learning forcefields for UiO-66 (Metal-organic-framework) used in the descruction of chemical warfare agents, and building a workflow for efficeintly predicting electron density of materials during classical molecular dynamics with machine leanring. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
