@@ -27,7 +27,7 @@ education:
   courses:
   - course: Ph.D. student in Computational Modeling and Simulation
     institution: University of Pittsburgh
-    year: Present
+    year: 2020 - Present
   - course: M.S. in Chemical Engineering
     institution: Carnegie Mellon University
     year: 2019
@@ -71,6 +71,6 @@ email: "ska31@pitt.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Siddarth Achar is a Ph.D. student in Computational Modeling and Simulation at the University of Pittsburgh. His research is focused on combining machine learning methods with quantum mechanics to discover exciting properties of materials. His research projects include building deep learning forcefields for anhydrous proton transport materials which have applications in fuel cells, deep learning forcefields for UiO-66 (Metal-organic-framework) used in the destruction of chemical warfare agents, and building a workflow for efficiently predicting electron density of materials during classical molecular dynamics with machine learning.
+I am a computational chemist with research interests spanning methods development using quantum mechanics + machine learning and molecular engineering. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://siddarthachar.netlify.app/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
