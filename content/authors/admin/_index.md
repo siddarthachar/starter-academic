@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Siddarth Achar
+title: Siddarth Achar, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,13 +14,17 @@ organizations:
   url: https://www.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include molecular dynamics, scientific deep learning, material design adn development.
+bio: My research interests include molecular simulation, statistical and quantum mechanics, scientific machine learning, material design and development, and molecular discovery. As of June 2024, I am a Ph.D. in [Computation Modeling and Simulation](https://www.cmsp.pitt.edu) from the [University of Pittsburgh](https://www.pitt.edu). I am an incoming postdoctoral scholar into the labs of [Dr. Andrew Ferguson](https://www.ferglab.com) and Dr. [Junhong Chen](https://www.junhongchengroup.pme.uchicago.edu) at [the Pritkzer School of Molecular Engineering](https://pme.uchicago.edu) at the Unviersity of Chicago. 
+
 
 # Interests to show in About widget
 interests:
-- Deep Learning
-- Molecular dynamics and Quantum Mechanics
-- Material design and development
+- Molecular Simulation
+- Statistical Mechanics
+- Machine Learning
+- Quantum Mechanics
+- Material Design and Development
+- Molecular Discovery
 
 # Education to show in About widget
 education:
