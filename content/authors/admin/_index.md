@@ -29,7 +29,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. student in Computational Modeling and Simulation
+  - course: Postdoctoral Scholar (Incoming)
+    institution: University of Chicago
+    year: 2024 - Present
+  - course: Ph.D. in Computational Modeling and Simulation
     institution: University of Pittsburgh
     year: 2020 - 2024
   - course: M.S. in Chemical Engineering
