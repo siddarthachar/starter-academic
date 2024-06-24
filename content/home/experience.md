@@ -39,7 +39,7 @@ experience:
         * Grant writing
         * President of Chemical Engineering Graduate Student Association
         
-  - title: RAMP Computational Material Science Intern
+- title: RAMP Computational Material Science Intern
     company: Western Digital
     company_url: 'https://jobs.westerndigital.com/university'
     location: San Jose, CA
