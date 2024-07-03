@@ -27,16 +27,13 @@ experience:
     company_url: 'http://puccini.che.pitt.edu/'
     location: Pittsburgh, PA
     date_start: '2020-01-03'
-    date_end: '2024-06-31'
+    date_end: ''
     description: |2-
-        Responsibilities include:   
-        * Modeling anhydrous proton conducting membranes for fuel cells using machine learning potentials.
-        * Reactive active learning for machine learning potentials.
-        * Deep learning for charge density prediction.
-        * Metal-Organic-framework UiO-66 material designs and simuation.
-        * Mentoring undergrad and graduate students.
-        * Grant writing.
-        * President of Chemical Engineering Graduate Student Association.
+        Responsibilities include:
+        
+        * NSF project: Anhydrous proton transport
+        * DTRA project: Metal-Organic-framework UiO-66 material designs and simuation
+        * Mentoring undergrad student research
         
   - title: RAMP Computational Material Science Intern
     company: Western Digital
@@ -44,7 +41,7 @@ experience:
     location: San Jose, CA
     date_start: '2021-05-25'
     date_end: '2021-08-13'
-    description: Building active learning machine learning potentials using moment tensors (MTP) to investigate interdiffusion at metal-chalcogenide alloys interfaces.
+    description: Building active learning machine learning potentials using moment tensors (MTP) to investigate interdiffusion at metal-chalcogenide alloys interfaces. 
     
   - title: Research Intern
     company: Innovative Nano Materials (INM) Pvt. Ltd.
