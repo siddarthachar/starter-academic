@@ -38,8 +38,16 @@ experience:
         * Mentoring undergrad and graduate students.
         * Grant writing.
         * President of Chemical Engineering Graduate Student Association.
+
+  - title: RAMP Computational Material Science Intern (2022)
+    company: Western Digital
+    company_url: 'https://jobs.westerndigital.com/university'
+    location: San Jose, CA
+    date_start: '2022-05-25'
+    date_end: '2022-08-13'
+    description: Discovered new electrode metal-chalcogenides for phase change memory devices.
         
-  - title: RAMP Computational Material Science Intern
+  - title: RAMP Computational Material Science Intern (2021)
     company: Western Digital
     company_url: 'https://jobs.westerndigital.com/university'
     location: San Jose, CA
