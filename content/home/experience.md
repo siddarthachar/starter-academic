@@ -46,14 +46,6 @@ experience:
     date_end: '2021-08-13'
     description: Building active learning machine learning potentials using moment tensors (MTP) to investigate interdiffusion at metal-chalcogenide alloys interfaces.
     
-  - title: RAMP Computational Material Science Intern
-    company: Western Digital
-    company_url: 'https://jobs.westerndigital.com/university'
-    location: San Jose, CA
-    date_start: '2022-05-25'
-    date_end: '2022-08-13'
-    description: Discovered new electrode metal-chalcogenides for phase change memory devices.
-    
   - title: Research Intern
     company: Innovative Nano Materials (INM) Pvt. Ltd.
     company_url: 'http://www.inmtechnologies.com/'
