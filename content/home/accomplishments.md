@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards and &shy Honors'
 subtitle:
 
 # Date format
@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url:
+- certificate_url: 
   date_end: ""
   date_start: "2023-11-08"
   description: ""
   organization: American Institute of Chemical Engineers
-  organization_url: [Computationl Molecular Science and Engineering Forum] (http://comsef.org)
+  organization_url: http://comsef.org
   title: Computational Molecular Science &Engineering Forum (CoMSEF) Outstanding Graduate Student Award
   url: "https://x.com/aichecomsef/status/1722651028087095583"
 - certificate_url: https://www.edx.org
@@ -39,12 +39,4 @@ item:
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
 ---
