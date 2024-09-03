@@ -22,12 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Scholar
+    company: University of Pittsburgh - Johnson Group
+    company_url: 'http://puccini.che.pitt.edu/'
+    location: Chicago, IL
+    date_start: '2024-08-27'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+
+        * High-throughput virtual screening and data-driven design of sensitive and selective molecular sensors.
+    
   - title: Graduate Student Researcher
     company: University of Pittsburgh - Johnson Group
     company_url: 'http://puccini.che.pitt.edu/'
     location: Pittsburgh, PA
     date_start: '2020-01-03'
-    date_end: ''
+    date_end: '2024-08-04'
     description: |2-
         Responsibilities include:
         
