@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Scholar
-    company: University of Pittsburgh - Johnson Group
+    company: University of Chicago - Ferguson Lab
     company_url: 'http://puccini.che.pitt.edu/'
     location: Chicago, IL
     date_start: '2024-08-27'
