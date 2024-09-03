@@ -78,6 +78,6 @@ email: "ska31@pitt.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-My research interests include molecular simulation, statistical and quantum mechanics, scientific machine learning, material design and development, and molecular discovery. As of June 2024, I am a Ph.D. in [Computation Modeling and Simulation](https://www.cmsp.pitt.edu) from the [University of Pittsburgh](https://www.pitt.edu). I am an incoming postdoctoral scholar into the labs of [Dr. Andrew Ferguson](https://www.ferglab.com) and Dr. [Junhong Chen](https://www.junhongchengroup.pme.uchicago.edu) at [the Pritkzer School of Molecular Engineering](https://pme.uchicago.edu) at the Unviersity of Chicago. 
+My research interests include molecular simulation, statistical and quantum mechanics, scientific machine learning, material design and development, and molecular discovery. I am a postdoctoral scholar in the labs of [Dr. Andrew Ferguson](https://www.ferglab.com) and Dr. [Junhong Chen](https://www.junhongchengroup.pme.uchicago.edu) at [the Pritkzer School of Molecular Engineering](https://pme.uchicago.edu) at the Unviersity of Chicago. I received my Ph.D. in [Computation Modeling and Simulation](https://www.cmsp.pitt.edu) from the [University of Pittsburgh](https://www.pitt.edu) under the mentorship of [Dr. J. Karl Johnson](http://puccini.che.pitt.edu).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://siddarthachar.netlify.app/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
