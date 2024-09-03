@@ -6,12 +6,12 @@ title: Siddarth Achar, Ph.D.
 superuser: true
 
 # Role/position/tagline
-role: PhD in Computational Modeling and Simulation
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pittsburgh
-  url: https://www.pitt.edu/
+- name: University of Chicago
+  url: https://pme.uchicago.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include molecular simulation, statistical and quantum mechanics, scientific machine learning, material design and development, and molecular discovery. I am a postdoctoral scholar in the labs of [Dr. Andrew Ferguson](https://www.ferglab.com) and Dr. [Junhong Chen](https://www.junhongchengroup.pme.uchicago.edu) at [the Pritkzer School of Molecular Engineering](https://pme.uchicago.edu) at the Unviersity of Chicago. I received my Ph.D. in [Computation Modeling and Simulation](https://www.cmsp.pitt.edu) from the [University of Pittsburgh](https://www.pitt.edu) in the lab of [Dr. J. Karl Johnson](http://puccini.che.pitt.edu).
