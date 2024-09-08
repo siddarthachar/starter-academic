@@ -7,6 +7,8 @@ title: Posts
 #   3 = Card
 view: 0
 
+active: false
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
